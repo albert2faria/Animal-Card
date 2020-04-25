@@ -1,0 +1,47 @@
+h3 {
+  font-weight: bold;
+  font-size: 25pt;
+}
+img {
+  width: 300px;
+  margin-bottom: 5px;
+}
+.fact {
+   font-style: italic;
+   font-family: "Times New Roman";
+}
+span {
+  font-weight: bold;
+}
+ul {
+  list-style: none;
+  text-align:left;
+  padding: 0;
+  margin-left: 5px;
+}
+.box {
+  margin: 20px;
+  border: 1px solid lightgray;
+  box-shadow: 3px 3px 3px 5px;
+  width: 310px;
+  padding: 0.5em;
+  padding-top: 0;
+}
+.under {
+  border: 1px solid lightgray;
+  padding: 2px;
+  margin-left: : 5px;
+  width: 295px;
+}
+p {
+  margin: 5px;
+  margin-bottom: 5px;
+  padding: 0px;
+}
+li {
+  text-align: left;
+}
+.info {
+  font-family: "Times New Roman";
+  font-size: 15pt;
+}
